@@ -78,7 +78,7 @@ h1, h2, h3, h4, h5, h6, figure {
     margin: 0; } }
 
 .colorlib-nav .top-menu {
-  padding: 40px 30px;
+  padding: 30px 30px;
   position: fixed;
   width: 100%;
   z-index: 99999;
@@ -262,7 +262,7 @@ h1, h2, h3, h4, h5, h6, figure {
     transform: scale(1.1); }
 
 #colorlib-hero {
-  margin-top: 127px;
+  margin-top: 107px;
   height: 650px;
   background: #fff url(../images/loader.gif) no-repeat center center;
   width: 100%;
